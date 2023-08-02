@@ -12,18 +12,6 @@
 - payment checkout
 
 
-
-## Installation
-
-- copy this https://github.com/aasimsyed97/SugarCosmetics01.git
-- Select path where you want to store the project in your pc
-- open the corresponding file / folder with editor
-- open terminal of your editor
-- use  --> git clone (paste link) <-- 
-- after project cloned to your folder
-- go to index.html inside homenavbar folder
-- open with live server
-    
 ## Tech Stack
 
 * Javascript
