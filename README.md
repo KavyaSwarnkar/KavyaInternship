@@ -1,9 +1,5 @@
 
-# Sugarcosmetic_clone
 
-This project is a team project of 6 members, This is an e-commerce website that sells cosmetic products. We built this cloning project
-Within 5 days and this is our first project during the Masai curriculum 
-https://startling-mooncake-efccdc.netlify.app/
 
 ## Features
 
@@ -34,12 +30,3 @@ https://startling-mooncake-efccdc.netlify.app/
 * HTML
 * CSS
 
-
-
-## Screenshots
-
-![App Screenshot](https://cdn.shopify.com/s/files/1/1301/1643/files/Weekend_offer-_landing_banner_2.jpg?v=1600581929)
-
-![App Screenshot](https://grocurv.com/media/images/Sugar_Website.width-800.png)
-
-![App Screenshot](https://www.couponmoto.com/storage/store/description/sugar-cosmetics-coupon-code.png)
